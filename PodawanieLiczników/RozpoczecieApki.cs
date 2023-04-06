@@ -7,7 +7,6 @@ var occupant = new Occupant("test", "test");
 while (true)
 {
     Console.WriteLine("");
-    Console.WriteLine("");
     Console.WriteLine("Proszę wybrać za co chcesz poznac opłatę");
     Console.WriteLine("1)Opłata za gaz");
     Console.WriteLine("2)Opłata za wodę");

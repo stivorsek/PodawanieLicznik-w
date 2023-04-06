@@ -1,5 +1,5 @@
 Aplikacja ma przeliczać opłaty za media (Wode Gaz oraz Prąd).
-Rozpoczęcie jest w "Rozpoczęcie apki" w której twożymy mieszkańca a następnie owy mieszkaniec wybiera za co chce zapłacić.
+Rozpoczęcie jest w "Rozpoczęcie apki" w której tworzymy mieszkańca a następnie owy mieszkaniec wybiera za co chce zapłacić.
 1)wode
 2)gaz
 3)prąd
